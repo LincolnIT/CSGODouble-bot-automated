@@ -17,11 +17,11 @@ After just need to leave page open and bot will do everyting. 100% profit
 
 Yes, you can use this script and don't worry about CSGODouble banning you - firstly, they don't really lose anything on you, secondary, checking for such activity is really troublesome.
 
-## About
+## About ##
 
 The script uses martingale to bet your coins, this means that with every lose it doubles bet value, changing it back to base after win. That, in theory, means you always win base value.
 
-## Changelog
+## Changelog ##
 
 1.40:
 

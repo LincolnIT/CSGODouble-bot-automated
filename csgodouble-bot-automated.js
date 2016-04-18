@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name            csgodouble.com - automated cleaned by Suave
+// @name            csgodouble.com - automated cleaned
 // @description     An userscript that automates csgodouble.com betting using 6 chooseble systems.
 // @namespace       automated@Suave
-// @version         0.9.6
+// @version         1.40
 // @author          Suave
 // @match           http://www.csgodouble.com/
 // @match           http://www.csgodouble.com/index.php
@@ -107,7 +107,7 @@ function Automated() {
     menu.innerHTML = '' +
         '<div class="row">' +
             '<div class="col-lg-9">' +
-                '<h2>CSGODouble.com Automated <small>cleaned by Suave</small> <i id="automated-theme-switch" class="fa fa-lightbulb-o" style="cursor: pointer;"></i></h2>' +
+                '<h2>CSGODouble.com Automated <small></small> <i id="automated-theme-switch" class="fa fa-lightbulb-o" style="cursor: pointer;"></i></h2>' +
                 '<div class="form-group">' +
                     '<div class="btn-group">' +
                         '<button type="button" class="btn btn-success" id="automated-start" disabled>Start</button>' +

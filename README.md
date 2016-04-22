@@ -1,5 +1,6 @@
 # CSGODouble-bot-automated
-### BOT THAT BETS AUTOMATIC ON CS GO DOUBLE. Profit 100% for sure
+### CSGODouble betBOT. Profit 25% per Day
+Last update: 22/04/2016 (csgodouble lottery script refresh - updated)
 
 Program interface
 ![Screenshot](http://i.imgur.com/U2sVHsn.png)

@@ -25,7 +25,7 @@ The script uses martingale to bet your coins, this means that with every lose it
 
 ## Changelog ##
 
-1.40:
+1.42:
 
 - Work with new sites.
 

@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name            csgodouble.com - automated
 // @description     An userscript that automates csgodouble.com betting using 6 chooseble systems.
-// @namespace       automated@Suave
-// @version         1.41
+// @namespace       csgodouble.com - automated
+// @version         1.42
 // @author          Suave
 // @match           http://www.csgodouble.com/
 // @match           http://www.csgodouble.com/index.php
@@ -15,7 +15,7 @@
 // @run-at          document-end
 // @grant           none
 // ==/UserScript==
-/* jshint -W097 */
+/* jshint */
 
 'use strict';
 

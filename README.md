@@ -1,6 +1,6 @@
 # CSGODouble-bot-automated
 ### CSGODouble betBOT. Profit 35% per Day
-Last update: 29/04/2016 (Foobar updated csgodouble script so we needed to update it, too)
+Last update: 30/04/2016 (Foobar updated csgodouble script so we needed to update it, too)
 
 
 Program interface

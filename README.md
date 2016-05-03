@@ -1,7 +1,6 @@
 # CSGODouble-bot-automated
-### CSGODouble betBOT. About 40% profit per Day - depending on the method. I recommend rainbow!
-Last update: 02/05/2016 
-(Reason of update: Foobar updated csgodouble script so we needed to updated it, too)
+### CSGODouble betBOT. About 35% profit per Day - depending on the method. I recommend rainbow!
+Last update: 03/05/2016 - Foobar updated csgodouble script so we needed to updated it, too
 
 
 Program interface
@@ -13,7 +12,7 @@ Program interface
 2 - Open the console (SHIFT+CRTL+J)
 3 - Copy the code of csgodouble-bot-automated.js and paste in console.
 4 - The page will change and you chose what you want and next click start. 
-After just need to leave page open and bot will do everyting. 100% profit 
+After just need to leave page open and bot will do everyting. 35% profit 
 ```
 
 ## Is it safe?
